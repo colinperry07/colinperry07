@@ -21,3 +21,4 @@ He is constantly learning, but his bread and butter is absolutely **Dart** and *
 
 ### How to reach me
 [Email](mailto:colinperry922@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/colin-perry-2066363b4/)
