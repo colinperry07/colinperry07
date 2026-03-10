@@ -16,6 +16,7 @@ I'm an aspiring developer interested in creating small practical tools and appli
 - Advanced application architecture
 
 ## Projects
+- *RandomDailyWallpaper*: Fetches NASA’s Astronomy Picture of the Day (APOD) and automatically sets it as your desktop wallpaper on Windows, macOS, and Linux.
 - *BulkImageResizer*: Bulk image resizer CLI tool for resizing all images in a directory.
 - *MarkdownLinePreview*: A web tool for real-time Markdown-to-HTML preview.
 
