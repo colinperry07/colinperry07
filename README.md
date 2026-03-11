@@ -15,7 +15,7 @@ I'm an aspiring developer interested in creating small practical tools and appli
 - Modularization with Singular Responsibility Principle
 - Virtual Environment usage
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=colinperry07&repo=github-readme-stats)](https://github.com/colinperry07/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=colinperry07&repo=RandomDailyWallpaper)](https://github.com/colinperry07/RandomDailyWallpaper)
 
 ## Projects
 - *RandomDailyWallpaper*: Fetches NASA’s Astronomy Picture of the Day (APOD) and automatically sets it as your desktop wallpaper on Windows, macOS, and Linux.
