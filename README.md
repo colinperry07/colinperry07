@@ -7,10 +7,8 @@ I'm enrolled in the University of North Georgia currently with a plan to graduat
 ![Colin's GitHub stats](https://github-readme-stats.vercel.app/api?username=colinperry07&show_icons=true&hide_rank=true&show=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=colinperry07&layout=compact)  
 
-## Recent Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=colinperry07&repo=RandomDailyWallpaper)](https://github.com/colinperry07/RandomDailyWallpaper)  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=colinperry07&repo=MarkdownLinePreview)](https://github.com/colinperry07/MarkdownLinePreview)  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=colinperry07&repo=BulkImageResizer)](https://github.com/colinperry07/BulkImageResizer)  
+## Featured Project
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=colinperry07&repo=RandomDailyWallpaper)](https://github.com/colinperry07/RandomDailyWallpaper)
 
 ### Contact Me!
 [Email](mailto:colinperry922@gmail.com)  
