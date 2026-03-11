@@ -8,7 +8,7 @@ I'm an aspiring developer interested in creating small practical tools and appli
 
 ## Tech Stack
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/colinperry07/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=colinperry07)](https://github.com/colinperry07/github-readme-stats)
 
 ### Currently Learning
 - Self-Documenting Code
