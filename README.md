@@ -8,7 +8,7 @@ I'm enrolled in the University of North Georgia currently with a plan to graduat
   <img height=300 align="center" src="https://github-readme-stats.vercel.app/api?username=colinperry07" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=colinperry07&layout=compact&langs_count=8&card_width=320" />
+  <img height=800 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=colinperry07&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 ## Featured Project
